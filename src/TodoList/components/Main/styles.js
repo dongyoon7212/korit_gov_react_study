@@ -17,7 +17,8 @@ export const listContainer = css`
         list-style: none;
         margin: 0;
         padding: 0;
-        height: 100%;
+        height: 422px;
+        overflow: auto;
 
         & > li {
             position: relative;
